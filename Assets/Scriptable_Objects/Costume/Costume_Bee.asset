@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6d0d3b9672129364084f7538be9f6861, type: 3}
+  m_Name: Costume_Bee
+  m_EditorClassIdentifier: 
+  title: "\uAFC0\uBC8C \uC53D\uD06C"
+  baseCost: 300
+  Costume: {fileID: 0}
+  isPurchased: 0
+  isSelling: 1
+  isEquiped: 0
